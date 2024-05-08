@@ -1,3 +1,0 @@
-/home/lynguyen/Cmake/github/Helloworld-CMake/build/CMakeFiles/Run.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/build/CMakeFiles/edit_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/build/CMakeFiles/rebuild_cache.dir
