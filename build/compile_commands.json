@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Run.dir/main.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/1_HelloWorldSample/main.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/1_HelloWorldSample/main.cc"
+}
+]
