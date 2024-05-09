@@ -1,0 +1,10 @@
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/app/CMakeFiles/Run.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/app/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/app/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/src/CMakeFiles/Library.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/src/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/src/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/inc/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/6_VariableAndOptions/build/inc/CMakeFiles/rebuild_cache.dir

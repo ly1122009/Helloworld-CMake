@@ -13,9 +13,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
   "../inc/CMakeLists.txt"
-  "../inc/my_libInc/CMakeLists.txt"
   "../src/CMakeLists.txt"
-  "../src/my_libSrc/CMakeLists.txt"
   "/usr/share/cmake-3.22/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake"
@@ -46,13 +44,11 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "app/CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/my_libSrc/CMakeFiles/CMakeDirectoryInformation.cmake"
   "inc/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "inc/my_libInc/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "app/CMakeFiles/Run.dir/DependInfo.cmake"
-  "src/my_libSrc/CMakeFiles/Library.dir/DependInfo.cmake"
+  "src/CMakeFiles/Library.dir/DependInfo.cmake"
   )
