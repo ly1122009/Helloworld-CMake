@@ -1,8 +1,0 @@
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/CMakeFiles/edit_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/CMakeFiles/rebuild_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/app/CMakeFiles/Run.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/app/CMakeFiles/edit_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/app/CMakeFiles/rebuild_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/src/CMakeFiles/Library.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/src/CMakeFiles/edit_cache.dir
-/home/lynguyen/Cmake/github/Helloworld-CMake/4_IntermediateProjectStructurecopy/build/src/CMakeFiles/rebuild_cache.dir
