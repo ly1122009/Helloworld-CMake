@@ -24,6 +24,8 @@ set(EXECUTABLE_NAME Run)
 # else ()
 #     message("W/O exe. compiling")
 # endif()
+set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake/")
+include(Docs)
 
 #add subdirectory
 add_subdirectory(src)

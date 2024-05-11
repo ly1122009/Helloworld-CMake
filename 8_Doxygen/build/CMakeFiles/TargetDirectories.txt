@@ -1,3 +1,4 @@
+/home/lynguyen/Cmake/github/Helloworld-CMake/8_Doxygen/build/CMakeFiles/docs.dir
 /home/lynguyen/Cmake/github/Helloworld-CMake/8_Doxygen/build/CMakeFiles/edit_cache.dir
 /home/lynguyen/Cmake/github/Helloworld-CMake/8_Doxygen/build/CMakeFiles/rebuild_cache.dir
 /home/lynguyen/Cmake/github/Helloworld-CMake/8_Doxygen/build/src/CMakeFiles/Library.dir
