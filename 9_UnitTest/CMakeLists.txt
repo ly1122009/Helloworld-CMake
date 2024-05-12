@@ -10,6 +10,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Not use extension 
 set(CMAKE_CXX_EXTENSIONS        OFF)
 
+option(ENABLE_TESTING "Enable a Unit testing build" ON)
+
 # set variable
 set(LIBRARY_NAME Library)
 set(EXECUTABLE_NAME Run)

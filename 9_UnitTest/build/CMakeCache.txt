@@ -314,6 +314,9 @@ DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/bin/dot
 //Doxygen documentation generation tool (http://www.doxygen.org)
 DOXYGEN_EXECUTABLE:FILEPATH=/usr/bin/doxygen
 
+//Enable a Unit testing build
+ENABLE_TESTING:BOOL=ON
+
 //Directory under which to collect all populated content
 FETCHCONTENT_BASE_DIR:PATH=/home/lynguyen/Cmake/github/Helloworld-CMake/9_UnitTest/build/_deps
 
