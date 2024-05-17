@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/catch2/. -g -std=c++17 -o src/CMakeFiles/Library.dir/my_lib.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/src/my_lib.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/src/my_lib.cc"
+},
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/catch2/. -g -std=c++17 -o app/CMakeFiles/Run.dir/main.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/app/main.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/app/main.cc"
+},
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/tests/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/catch2/. -g -std=c++17 -o tests/CMakeFiles/unit_tests.dir/main.test.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/tests/main.test.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/tests/main.test.cc"
+}
+]

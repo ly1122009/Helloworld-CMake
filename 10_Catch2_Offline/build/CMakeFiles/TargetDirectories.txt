@@ -1,0 +1,16 @@
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/CMakeFiles/docs.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/src/CMakeFiles/Library.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/src/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/src/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/inc/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/inc/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/app/CMakeFiles/Run.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/app/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/app/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/tests/CMakeFiles/unit_tests.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/tests/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/tests/CMakeFiles/rebuild_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/catch2/CMakeFiles/edit_cache.dir
+/home/lynguyen/Cmake/github/Helloworld-CMake/10_Catch2_Offline/build/catch2/CMakeFiles/rebuild_cache.dir
