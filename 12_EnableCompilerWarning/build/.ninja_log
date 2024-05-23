@@ -1,0 +1,7 @@
+# ninja log v5
+4	271	1716403055854700561	app/CMakeFiles/Run.dir/main.cc.o	8174abb128134ba7
+4	264	1716403055854700561	src/CMakeFiles/Library.dir/my_lib.cc.o	4aedda2f1a7d1147
+264	316	1716403055904700606	src/libLibrary.a	ece300d26e52912d
+316	549	1716403056134700817	app/Run	b741ced315a066c6
+0	10929	1716402853884753627	tests/CMakeFiles/unit_tests.dir/main.test.cc.o	41aa6dd221c7b12f
+316	803	1716403056394701055	tests/unit_tests	f0c4908f700ab9f5

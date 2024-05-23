@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/catch2/. -g -Wall -Wextra -Wpedantic -std=c++17 -o src/CMakeFiles/Library.dir/my_lib.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/src/my_lib.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/src/my_lib.cc"
+},
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/catch2/. -g -Wall -Wextra -Wpedantic -std=c++17 -o app/CMakeFiles/Run.dir/main.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/app/main.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/app/main.cc"
+},
+{
+  "directory": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/build",
+  "command": "/usr/bin/g++ -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/tests/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/inc/. -I/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/catch2/. -g -std=c++17 -o tests/CMakeFiles/unit_tests.dir/main.test.cc.o -c /home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/tests/main.test.cc",
+  "file": "/home/lynguyen/Cmake/github/Helloworld-CMake/12_EnableCompilerWarning/tests/main.test.cc"
+}
+]

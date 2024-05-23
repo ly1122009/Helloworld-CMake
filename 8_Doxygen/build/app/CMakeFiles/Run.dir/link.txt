@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Run.dir/main.cc.o -o Run  ../src/libLibrary.a 
